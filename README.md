@@ -1,8 +1,8 @@
-# data-projects
+# Data Projects
 
 This repository stores mini data projects I have worked on.
 
-**[Business establishments](https://nbviewer.org/github/whchan05/data-projects/blob/main/biz%20est/biz%20est.ipynb)**
+**[Business Establishments](https://nbviewer.org/github/whchan05/data-projects/blob/main/biz%20est/biz%20est.ipynb)**
 
 Visualize spatial and temporal trend of business establishments in the heart Melbourne.
 
