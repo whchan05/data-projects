@@ -17,3 +17,7 @@ Attempt to determine which factors may affect the seriousness of crash accidents
 ****[Loan Default Prediction](https://nbviewer.org/github/whchan05/data-projects/blob/367dfbfd174c7b0b1a87400fd78e3878870a1999/loan%20default%20prediction/Loan%20Default%20Prediction%20Kaggle.ipynb)****
 
 Build and refine a prediction model in an attempt to predict loan defaults. Also produced a gains table to evaluate the effectiveness of the model built.
+
+****[Starbucks Optimization Strategy](https://nbviewer.org/github/whchan05/data-projects/blob/main/starbucks/starbucks.ipynb)****
+
+Identify target customers to send promotions in a marketing campaign and evaluate effectiveness using custom objective function.
