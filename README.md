@@ -8,7 +8,7 @@ Visualize spatial and temporal trend of business establishments in the heart Mel
 
 ****[Coffee](https://nbviewer.org/github/whchan05/data-projects/blob/c48a7fda8180c6a7d34e78dbccd4f3433f263939/coffee/coffee.ipynb)****
 
-Visualize close-ness of different coffee blends using T-SNE, with data scraped from a local roaster's website.
+Visualize closeness of different coffee blends using T-SNE, with data scraped from a local roaster's website.
 
 ****[Crashes in Victoria](https://nbviewer.org/github/whchan05/data-projects/blob/b5299eacd905b0cb54452c275724bfc2ecb5a550/vic%20crash/vic%20crash.ipynb)****
 
