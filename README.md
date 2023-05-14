@@ -12,7 +12,7 @@ Visualize closeness of different coffee blends using T-SNE, with data scraped fr
 
 ****[Crashes in Victoria](https://nbviewer.org/github/whchan05/data-projects/blob/b5299eacd905b0cb54452c275724bfc2ecb5a550/vic%20crash/vic%20crash.ipynb)****
 
-Attempt to determine which factors may affect the seriousness of crash accidents in Victoria based on available information. Also visualized crash locations and tried to explore its relationship with distance from hospitals.
+Attempt to determine which factors may affect the seriousness of crash accidents in Victoria based on available information. Also visualized crash locations and tried to explore the relationship between seriousness and distance from hospitals.
 
 ****[Loan Default Prediction](https://nbviewer.org/github/whchan05/data-projects/blob/367dfbfd174c7b0b1a87400fd78e3878870a1999/loan%20default%20prediction/Loan%20Default%20Prediction%20Kaggle.ipynb)****
 
