@@ -32,3 +32,12 @@ Package used: pandas, numpy, sklearn, plotly, seaborn, optuna
 Identify target customers to send promotions in a marketing campaign and evaluate effectiveness using custom objective functions.
 
 Package used: pandas, numpy, lightgbm, plotly
+
+
+
+
+****[Victorian Vehicle Registrations Vizualization](https://public.tableau.com/app/profile/wai.ho.chan/viz/MelbourneVehicleViz/Victoriavehicles?publish=yes)****
+
+Visualize distribution of vehicles registered in Victoria. Dataset can be found ****[here](https://discover.data.vic.gov.au/dataset/whole-fleet-vehicle-registration-snapshot-by-postcode)****.
+
+Tool used: Tableau
