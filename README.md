@@ -41,3 +41,11 @@ Package used: pandas, numpy, lightgbm, plotly
 Visualize distribution of vehicles registered in Victoria. Dataset can be found ****[here](https://discover.data.vic.gov.au/dataset/whole-fleet-vehicle-registration-snapshot-by-postcode)****.
 
 Tool used: Tableau
+
+
+
+****[INTC Financials]([https://app.powerbi.com/groups/me/reports/30740124-8177-4d1c-a497-d4730b3ec14f/ReportSection226d0a88e0f07002a079?experience=power-bi]))****
+
+Visualize INTC's financials over past 4 years. PDF can be found ****[here](https://github.com/whchan05/data-projects/blob/main/INTC%20financial/balancesheet%20viz.pdf)****.
+
+Tool used: Power BI Desktop
