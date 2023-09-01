@@ -44,8 +44,17 @@ Tool used: Tableau
 
 
 
-****[INTC Financials](https://app.powerbi.com/groups/me/reports/30740124-8177-4d1c-a497-d4730b3ec14f/ReportSection226d0a88e0f07002a079?experience=power-bi)****
+****[INTC Financials](https://app.powerbi.com/view?r=eyJrIjoiZTBlNTA5MjctOTg5Ni00OWE4LWIwNTEtM2YzZDNmZjk1ZTUzIiwidCI6ImY5ZGM2Y2E0LTZjNjgtNDY3MS04NzA2LWQ1ZDNmMjhjYmNhYiJ9)****
 
 Visualize INTC's financials over the past 4 years. PDF can be found ****[here](https://github.com/whchan05/data-projects/blob/main/INTC%20financial/balancesheet%20viz.pdf)****.
+
+Tool used: Power BI Desktop
+
+
+****[Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2E2ZTIxMGUtYmQxMC00NDNlLTk0NTktNDEyZDExY2UzYjAzIiwidCI6ImY5ZGM2Y2E0LTZjNjgtNDY3MS04NzA2LWQ1ZDNmMjhjYmNhYiJ9)****
+
+Visualize and analyze fictitious datasets (with further modifications) from DataCamp course ****[Financial Analysis in Power BI](https://www.datacamp.com/courses/financial-analysis-in-power-bi)****.
+
+PDF can be found ****[here](https://github.com/whchan05/data-projects/blob/main/management%20dashboard/management%20dashboard.pdf)****.
 
 Tool used: Power BI Desktop
