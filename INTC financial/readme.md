@@ -1,3 +1,3 @@
 Visit below link to view interactive report
 
-https://app.powerbi.com/groups/me/reports/30740124-8177-4d1c-a497-d4730b3ec14f/ReportSection226d0a88e0f07002a079?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiZTBlNTA5MjctOTg5Ni00OWE4LWIwNTEtM2YzZDNmZjk1ZTUzIiwidCI6ImY5ZGM2Y2E0LTZjNjgtNDY3MS04NzA2LWQ1ZDNmMjhjYmNhYiJ9
