@@ -26,15 +26,11 @@ Build and refine a default prediction model in an attempt to predict loan defaul
 
 Package used: pandas, numpy, sklearn, plotly, seaborn, optuna
 
-
 ****[Starbucks Optimization Strategy](https://nbviewer.org/github/whchan05/data-projects/blob/main/starbucks/starbucks.ipynb)****
 
 Identify target customers to send promotions in a marketing campaign and evaluate effectiveness using custom objective functions.
 
 Package used: pandas, numpy, lightgbm, plotly
-
-
-
 
 ****[Victorian Vehicle Registrations Vizualization](https://public.tableau.com/app/profile/wai.ho.chan/viz/MelbourneVehicleViz/Victoriavehicles?publish=yes)****
 
@@ -42,14 +38,11 @@ Visualize distribution of vehicles registered in Victoria. Dataset can be found 
 
 Tool used: Tableau
 
-
-
 ****[INTC Financials](https://app.powerbi.com/view?r=eyJrIjoiZTBlNTA5MjctOTg5Ni00OWE4LWIwNTEtM2YzZDNmZjk1ZTUzIiwidCI6ImY5ZGM2Y2E0LTZjNjgtNDY3MS04NzA2LWQ1ZDNmMjhjYmNhYiJ9)****
 
 Visualize INTC's financials over the past 4 years. PDF can be found ****[here](https://github.com/whchan05/data-projects/blob/main/INTC%20financial/balancesheet%20viz.pdf)****.
 
 Tool used: Power BI Desktop
-
 
 ****[Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2E2ZTIxMGUtYmQxMC00NDNlLTk0NTktNDEyZDExY2UzYjAzIiwidCI6ImY5ZGM2Y2E0LTZjNjgtNDY3MS04NzA2LWQ1ZDNmMjhjYmNhYiJ9)****
 
@@ -58,3 +51,10 @@ Visualize and analyze fictitious datasets (with further modifications) from Data
 PDF can be found ****[here](https://github.com/whchan05/data-projects/blob/main/management%20dashboard/management%20dashboard.pdf)****.
 
 Tool used: Power BI Desktop
+
+****[Performance Dashboard](https://lookerstudio.google.com/reporting/1d17636e-be20-4822-aad8-a4855f3664ac)****
+
+Visualize and analyze fictitious public datasets ****thelook_ecommerce**** hosted on GCP.
+
+Tool used: BigQuery, Looker Studio
+
