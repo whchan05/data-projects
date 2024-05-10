@@ -26,9 +26,9 @@ Identify target customers to send promotions in a marketing campaign and evaluat
 
 Package used: pandas, numpy, lightgbm, plotly
 
-****[Victorian Vehicle Registrations Visualization](https://public.tableau.com/app/profile/wai.ho.chan/viz/MelbourneVehicleViz/Victoriavehicles?publish=yes)****
+****[Victoria Road Crash Data](https://public.tableau.com/app/profile/wai.ho.chan/viz/DigitalJobProgramVisualizationFinalProject-VicCrash/VictoriaRoadCrashData?publish=yes)****
 
-Visualize distribution of vehicles registered in Victoria. Dataset can be found ****[here](https://discover.data.vic.gov.au/dataset/whole-fleet-vehicle-registration-snapshot-by-postcode)****.
+An attempt to answer how fatalities on Victorian roads can be reduced. Dataset can be found ****[here](https://discover.data.vic.gov.au/dataset/victoria-road-crash-data)****.
 
 Tool used: Tableau
 
